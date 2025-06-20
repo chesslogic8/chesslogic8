@@ -5,4 +5,4 @@
 
 Manual coding is arcane. Ai can do in a minute what 10 "expert" coders can do in a week. 
 
-Rust is objectiely the god lang ... at leat till Ai poops out something superior. 
+Rust is objectively the god lang ... at leat till Ai poops out something superior. 
