@@ -8,3 +8,7 @@ Manual coding is arcane. Ai can do in a minute what 10 "expert" coders can do in
 Rust is objectively the god lang ... at leat till Ai poops out something superior. 
 
 @LaurieWired is the only good tech person on youtube. The rest are inept con artists. 
+
+Php and Go are mind viruses. The easy way is touted as the best way. That is silly. With Ai, there is no excuse to not use Rust. 
+
+Zig, the "nonprofit" is just another money laundering scam. MOST nonprofits are a huge scam. Having a 4 person "team" make financial gain is NOT how to properly run a lang. It is more like a crypto coin scam. 
