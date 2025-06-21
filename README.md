@@ -9,7 +9,7 @@ Rust is objectively the god lang ... at leat till Ai poops out something superio
 
 @LaurieWired is the only good tech person on youtube.
 
-Php and Go are mind viruses. The easy way is touted as the best way. That is silly. The easy way is the LAZY way, and ther are no true shhortcuts in life.  With Ai, there is no excuse to not use Rust. 
+Php and Go are mind viruses. The easy way is touted as the best way. That is silly. The easy way is the LAZY way, and ther are no true shortcuts in life.  With Ai, there is no excuse to not use Rust. 
 
 Zig, the "nonprofit" is just another money laundering scam. MOST nonprofits are a huge scam. Having a 4 person "team" make financial gain is NOT how to properly run a lang. It is more like a crypto-coin/DAO/NFT scam. As such, zig leadership is laughable. They CLAIM they are not out for financial gain, and yet beg for money every so often. Utterly laughable scam. 
 
