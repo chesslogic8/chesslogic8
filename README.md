@@ -7,7 +7,7 @@ Manual coding is arcane. Ai can do in a minute what 10 "expert" coders can do in
 
 Rust is objectively the god lang ... at leat till Ai poops out something superior. 
 
-@LaurieWired is the only good tech person on youtube. The rest are inept con artists. 
+@LaurieWired is the only good tech person on youtube.
 
 Php and Go are mind viruses. The easy way is touted as the best way. That is silly. The easy way is the LAZY way, and ther are no true shhortcuts in life.  With Ai, there is no excuse to not use Rust. 
 
