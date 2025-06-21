@@ -6,3 +6,5 @@
 Manual coding is arcane. Ai can do in a minute what 10 "expert" coders can do in a week. 
 
 Rust is objectively the god lang ... at leat till Ai poops out something superior. 
+
+@LaurieWired is the only good tech person on youtube. The rest are inept con artists. 
