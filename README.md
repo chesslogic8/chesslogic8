@@ -14,3 +14,6 @@ Php and Go are mind viruses. The easy way is touted as the best way. That is sil
 Zig, the "nonprofit" is just another money laundering scam. MOST nonprofits are a huge scam. Having a 4 person "team" make financial gain is NOT how to properly run a lang. It is more like a crypto-coin/DAO/NFT scam. As such, zig leadership is laughable. They CLAIM they are not out for financial gain, and yet beg for money every so often. Utterly laughable scam. 
 
 The combo of Quantum Computing together with Ai is interesting. Someone should look into that lol . 
+
+
+![b](https://github.com/user-attachments/assets/0d0a7b30-a4ab-4b3a-a868-202795c0ad72)
